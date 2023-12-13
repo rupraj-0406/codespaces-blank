@@ -1,0 +1,19 @@
+/* Write your code here: */
+h1, h2{
+    color: #8a2be2;
+}
+
+p.done{
+    color: red;
+}
+
+li{
+    color: blue;
+}
+
+li.done{
+    color:  green;
+}
+p.done{
+    font-size: small;
+}
